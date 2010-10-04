@@ -1,105 +1,105 @@
-ポケモントレーナー
-ポケモントレーナー
-たんぱんこぞう
-ミニスカート
-じゅくがえり
-じゅくがえり
-テニスプレイヤー
-フットボーラー
-ウエーター
-ウエートレス
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ほいくし
-えんじ
-えんじ
-ふたごちゃん
-ポケモンブリーダー
-ポケモンブリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ジムリーダー
-ポケモンレンジャー
-ポケモンレンジャー
-さぎょういん
-バックパッカー
-バックパッカー
-つりびと
-ミュージシャン
-ダンサー
-クラウン
-げいじゅつか
-ベーカリー
-サイキッカー
-サイキッカー
-ポケモントレーナー
-ポケモントレーナー
-プラズマだん
-ポケモントレーナー
-おぼっちゃま
-おじょうさま
-パイロット
-さぎょういん
-バスケせんしゅ
-けんきゅういん
-プラズマだん
-ＯＬ
-エリートトレーナー
-エリートトレーナー
-カラテおう
-けんきゅういん
-サッカーせんしゅ
-ジムリーダー
-ジムリーダー
-ジムリーダー
-スキンヘッズ
+Treinador PKMN
+Treinador PKMN
+Menino
+Garota
+Aluno
+Aluna
+Jogador de Tenis
+Jogador de Rugby
+Garcom
+Garconete
+Lider de Ginasio
+Lider de Ginasio
+Lider de Ginasio
+Professora
+Ed. Infantil
+Ed. Infantil
+Gemeas
+Criador PKMN
+Criador PKMN
+Lider de Ginasio
+Lider de Ginasio
+Lider de Ginasio
+Lider de Ginasio
+Lider de Ginasio
+Guarda PKMN
+Guarda PKMN
+Trabalhador
+Mochileiro
+Mochileira
+Pescador
+Musico
+Dancarino
+Palhaco
+Artista
+Confeiteira
+Paranormal
+Paranormal
+Treinador PKMN
+Treinador PKMN
+Equipe Plasma
+Treinador PKMN
+Menino Rico
+Senhorita
+Piloto
+Trabalhador
+Jogador de Basquete
+Pesquisador
+Equipe Plasma
+Secretaria
+Treinador de Elite
+Treinador de Elite
+Rei do Karate
+Pesquisadora
+Jogador de Futebol
+Lider de Ginasio
+Lider de Ginasio
+Lider de Ginasio
+Skinhead
 せいそういん
-だいすきクラブ
-だいすきクラブ
-ドクター
-ナース
+Fan Clube Pokemon
+Fan Clube Pokemon
+Medico
+Enfermeira
 バッドチーム
-バトルガール
-パラソルおねえさん
-ビジネスマン
-ビジネスマン
-ファンクラブ
-ファンクラブ
-ベテラントレーナー
-ベテラントレーナー
+Lutadora
+Garota do Guarda-sol
+Homem de Negocios
+Homem de Negocios
+Fan Clube
+Fan Clube
+Treinador Veterano
+Treinador Veterano
 ぼうそうぞく
 やきゅうせんしゅ
-やまおとこ
-マダム
-ジェントルマン
-プラズマだん
-してんのう
-してんのう
-してんのう
-してんのう
-プラズマだん
+Alpinista
+Madame
+Cavalheiro
+Equipe Plasma
+Elite Quatro
+Elite Quatro
+Elite Quatro
+Elite Quatro
+Equipe Plasma
 てつどういん
-かいパンやろう
-ビキニのおねえさん
+Nadador
+Garota de Biquini
 おまわりさん
-メイド
-サブウェイマスター
-チャンピオン
-サイクリング
-サイクリング
-バイクずき
+Empregada
+Mestre do Metro
+Campeao
+Ciclista
+Ciclista
+Motoqueiro
 ブルジョワールけ
 ブルジョワールけ
 ブルジョワールけ
 ブルジョワールけ
-ゲームフリーク
+Game Freak
 ブルジョワールけ
 ブルジョワールけ
-ポケモントレーナー
-プラズマだん
-サブウェイマスター
-ポケモントレーナー
-ポケモントレーナー
+Treinador PKMN
+Equipe Plasma
+Mestre do Metro
+Treinador PKMN
+Treinador PKMN
