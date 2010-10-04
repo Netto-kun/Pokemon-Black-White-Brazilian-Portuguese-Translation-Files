@@ -4,24 +4,24 @@ Menino
 Garota
 Aluno
 Aluna
-Jogador de Tenis
+Jogador de Tênis
 Jogador de Rugby
-Garcom
-Garconete
-Lider de Ginasio
-Lider de Ginasio
-Lider de Ginasio
+Garçom
+Garçonete
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
 Professora
 Ed. Infantil
 Ed. Infantil
-Gemeas
+Gêmeas
 Criador PKMN
 Criador PKMN
-Lider de Ginasio
-Lider de Ginasio
-Lider de Ginasio
-Lider de Ginasio
-Lider de Ginasio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
 Guarda PKMN
 Guarda PKMN
 Trabalhador
@@ -46,20 +46,20 @@ Trabalhador
 Jogador de Basquete
 Pesquisador
 Equipe Plasma
-Secretaria
+Secretária
 Treinador de Elite
 Treinador de Elite
-Rei do Karate
+Rei do Karatê
 Pesquisadora
 Jogador de Futebol
-Lider de Ginasio
-Lider de Ginasio
-Lider de Ginasio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
 Skinhead
 せいそういん
-Fan Clube Pokemon
-Fan Clube Pokemon
-Medico
+Fan Clube Pokémon
+Fan Clube Pokémon
+Médico
 Enfermeira
 バッドチーム
 Lutadora
@@ -86,8 +86,8 @@ Nadador
 Garota de Biquini
 おまわりさん
 Empregada
-Mestre do Metro
-Campeao
+Mestre do Metrô
+Campeão
 Ciclista
 Ciclista
 Motoqueiro
@@ -100,6 +100,6 @@ Game Freak
 ブルジョワールけ
 Treinador PKMN
 Equipe Plasma
-Mestre do Metro
+Mestre do Metrô
 Treinador PKMN
 Treinador PKMN
